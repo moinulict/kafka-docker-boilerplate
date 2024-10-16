@@ -15,7 +15,7 @@ Follow these steps to set up Kafka and Zookeeper on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/kafka-docker.git
+git clone https://github.com/moinulict/kafka-docker-boilerplate
 cd kafka-docker
 ```
 
